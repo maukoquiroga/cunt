@@ -23,7 +23,13 @@
     "hubot": ">= 2.5.1",
     "hubot-scripts": ">= 2.4.2",
     "hubot-hipchat": "~2.5.1-5",
-    "ntwitter": "~0.5.0"
+    "ntwitter": "~0.5.0",
+    "request": "2.27.0",
+    "cssom": "0.3.0",
+    "htmlparser": "1.7.6",
+    "contextify": "0.1.6",
+    "jsdom": "0.2.14",
+    "underscore.string": "2.3.0"
   },
   "engines": {
     "node": ">= 0.8.x",
