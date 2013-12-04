@@ -28,6 +28,7 @@
     "cssom": "0.3.0",
     "htmlparser": "1.7.6",
     "contextify": "0.1.6",
+    "soupselect": "0.2.0",
     "jsdom": "0.2.14",
     "underscore.string": "2.3.0"
   },

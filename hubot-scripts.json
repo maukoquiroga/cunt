@@ -1,1 +1,10 @@
-["redis-brain.coffee", "tweet.coffee", "shipit.coffee"]
+[
+  "9gag.coffee",
+  "advice.coffee",
+  "beerme.coffee",
+  "chuck-norris.coffee",
+  "dilbert.coffee",
+  "redis-brain.coffee",
+  "tweet.coffee",
+  "shipit.coffee"
+]
