@@ -1,10 +1,6 @@
 [
-  "9gag.coffee",
-  "advice.coffee",
-  "beerme.coffee",
-  "chuck-norris.coffee",
-  "dilbert.coffee",
-  "redis-brain.coffee",
-  "tweet.coffee",
-  "shipit.coffee"
+  "hangout.coffee",
+  "jira.coffee",
+  "ruby.coffee",
+  "rubygems.coffee"
 ]
