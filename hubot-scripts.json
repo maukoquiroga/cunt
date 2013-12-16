@@ -1,6 +1,3 @@
 [
-  "hangout.coffee",
-  "jira.coffee",
-  "ruby.coffee",
-  "rubygems.coffee"
+  "jira.coffee"
 ]
