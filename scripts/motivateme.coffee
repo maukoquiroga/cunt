@@ -8,7 +8,7 @@ module.exports = (robot) ->
   robot.respond /motivate @?([\w .\-]+)\?*$/i, (msg) ->
     name = msg.match[1].trim()
 
-    if name is "me"
-      msg.send "You're awesome dude!"
-    else
-      msg.send "You're awesome @#{name}!"
+    switch name
+      when "me" then msg.send "You're awesome dude!"
+      when "welldan97" then msg.send "You're awesome @#{name} (#{name})!"
+      else msg.send "You're awesome @#{name}!"
